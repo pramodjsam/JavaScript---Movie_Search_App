@@ -1,0 +1,56 @@
+body{
+	background: black;
+	color: white;
+}
+
+
+.navbar-brand{
+	color: white;
+	text-decoration: none;
+}
+
+.jumbotron{
+	background: gray;
+}
+
+#searchText{
+	width: 100%;
+	margin-top: 5px;
+}
+
+/*#movies h5{
+	padding: 10px;
+}*/
+
+.card{
+	height: 430px;
+}
+
+.card {
+	display: flex;
+}
+
+.card h5{
+	min-height: 50px;
+}
+
+#singleMovie{
+	background: #393C39
+}
+
+#singleMovie img{
+	height: 390px;
+	width: 350px;
+}
+
+/*.col-md-8{
+	background: black;
+}*/
+
+.col-md-8 li{
+	background: #4A4C4A
+}
+
+#plotRow .card{
+	height: 300px;
+}
